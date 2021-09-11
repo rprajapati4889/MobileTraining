@@ -1,6 +1,6 @@
 // Write an logic to segregate 1s and 0s from an array.
 // For eg: Input array =[0,1,0,1,0,0,1,1,1,0]
-// Output:[0,0,0,0,0,1,1,1,1,1].
+// Output:[0,0,0,0,0,1,1,1,1,1].git 
 void main() {
   var arr = [0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0];
   int l = arr.length;
